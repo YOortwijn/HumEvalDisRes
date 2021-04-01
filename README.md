@@ -1,4 +1,4 @@
-# HumEval21-disagreement-resolution
+# HumEval21 Disagreement Resolution
 This repository contains the data for the HumEval2021 paper "Interrater disagreement resolution; A systematic procedure to reach consensus in annotation tasks" (2021). In this repository one can find (i) the flowchart of section 4 of the paper, (ii) the data statement and relevant data for the first test case, section 5.1, on Epistemology in Quine, and (iii) the data statement and relevant data for the second test case, section 5.2, on literature reviews in the History of Philosophy. 
 
 ## The Flowchart
